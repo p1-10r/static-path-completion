@@ -1,5 +1,3 @@
-これでいいの？
-
 # Flask Static Path Completion
 
 このVSCode拡張機能は、Flaskでよく使われる `url_for('static', filename='')` 構文をHTML中で補完します。
